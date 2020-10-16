@@ -1,4 +1,4 @@
-<h1 class="gap">0x1B. C - Sorting algorithms &amp; Big O</h1>
+<h1 class="gap"> Project 0x1B. C - Sorting algorithms &amp; Big O</h1>
 <p><img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/248/willy-wonka.png" /><br />
 <br /></p>
 
@@ -216,4 +216,4 @@ If an answer is required within a file, all your answers files must have a newli
 
 
 
-<p> Plus 9 advances tasks </p>
+<p> Plus 9 advanced tasks </p>
