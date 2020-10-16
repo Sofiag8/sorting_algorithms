@@ -136,8 +136,6 @@ If an answer is required within a file, all your answers files must have a newli
 <h4 class="task">
     0. Bubble sort
 </h4>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/lyZQPjUT5B4" frameborder="0" allowfullscreen></iframe><br />
-<br /></p>
 <p>Write a function that sorts an array of integers in ascending order using the <a href="/rltoken/fCItpIfgmE07fFbHBUToeg" title="Bubble sort" target="_blank">Bubble sort</a> algorithm</p>
 
 <ul>
@@ -157,8 +155,6 @@ If an answer is required within a file, all your answers files must have a newli
 <h4 class="task">
     1. Insertion sort
 </h4>
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/ROalU379l3U" frameborder="0" allowfullscreen></iframe><br />
-<br /></p>
 <p>Write a function that sorts a doubly linked list of integers in ascending order using the <a href="https://en.wikipedia.org/wiki/Insertion_sort" title="Insertion sort" target="_blank">Insertion sort</a> algorithm</p>
 <ul>
 <li>Prototype: <code>void insertion_sort_list(listint_t **list);</code></li>
@@ -177,8 +173,6 @@ If an answer is required within a file, all your answers files must have a newli
 <h4 class="task">
     2. Selection sort
 </h4>
- <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Ns4TPTC8whw" frameborder="0" allowfullscreen></iframe><br />
-<br /></p>
 <p>Write a function that sorts an array of integers in ascending order using the <a href="https://en.wikipedia.org/wiki/Selection_sort" title="Selection sort" target="_blank">Selection sort</a> algorithm</p>
 
 <ul>
