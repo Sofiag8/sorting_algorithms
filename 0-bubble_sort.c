@@ -1,5 +1,4 @@
 #include "sort.h"
-void swap(int *xp, int *yp);
 /**
  * bubble_sort - sorts an array of integers in ascending order using bubble sort
  * @array: array to be sort
