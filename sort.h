@@ -1,7 +1,7 @@
 #ifndef _SORT_H
 #define _SORT_H
 
-#include <stdio.h>
+#include <stddef.h>
 
 /* given data structure for a double linked list */
 /**
